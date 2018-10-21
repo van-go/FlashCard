@@ -6,7 +6,7 @@ This app lets the user flip between two sides of a card
 ### App Walk-though
 
 
-<img src="http://recordit.co/RWgPTupJq0" width=200><br>
+<img src="http://g.recordit.co/RWgPTupJq0.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
